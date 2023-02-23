@@ -1,0 +1,32 @@
+{
+  "name": "vixien-energized-ai",
+  "version": "0.0.1",
+  "description": "Vixien Energized Discord AI (VEDI for short) is the main Discord Bot from Vivien Vixien (Vivi Vixien Dev#6991 / Vivi Vixien#5890) which will be focused on moderating channels and members, as well as helping in daily tasks like timers and reminders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vixien-Energized-AI/VEDI.git"
+  },
+  "keywords": [
+    "VEDI",
+    "Discord",
+    "Vivi",
+    "Vixien"
+  ],
+  "author": "Vivi Vixien#6991, Vivi Vixien#5890",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Vixien-Energized-AI/VEDI/issues"
+  },
+  "homepage": "https://github.com/Vixien-Energized-AI/VEDI#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
